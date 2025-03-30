@@ -1,1 +1,2 @@
 # Loan-Approval-Prediction-using-Machine-Learning
+This project leverages machine learning to build a predictive model for loan approval, enabling lenders to make data-driven decisions. By analyzing applicant information, we aim to accurately forecast loan status, optimizing approval processes and minimizing risk. This project includes data preprocessing, feature engineering, model training and evaluation.
